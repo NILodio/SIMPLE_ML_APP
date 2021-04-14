@@ -1,3 +1,6 @@
+# # local package
+# -e .
+
 dvc
 dvc[gdrive]
 sklearn
@@ -6,8 +9,6 @@ pytest
 tox
 
 
-# # local package
-# -e .
 
 # # external requirements
 # click
